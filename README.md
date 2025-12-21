@@ -1,4 +1,5 @@
-![CI](https://github.com/sauldmorales/linux-auth-log-analyzer/actions/workflows/ci.yml/badge.svg)
+[![CI](https://github.com/sauldmorales/linux-auth-log-analyzer/actions/workflows/ci.yml/badge.svg)](https://github.com/sauldmorales/linux-auth-log-analyzer/actions/workflows/ci.yml)
+
 ## Setup
 ```bash
 python -m venv .venv
