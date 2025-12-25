@@ -21,7 +21,7 @@ Python tool to parse Linux authentication logs (e.g. `/var/log/auth.log`) and ex
 ├── pyproject.toml
 ├── .github/workflows/ci.yml
 └── README.md
-
+```
 
 ## Requirements
 
