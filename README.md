@@ -9,7 +9,7 @@ Python tool to parse Linux authentication logs (e.g. `/var/log/auth.log`) and ex
 - Enforces reproducibility: **tests + lint + CI** (not “works on my machine”).
 
 ## Project structure
-
+```text
 .
 ├── src/
 │   └── auth_log_analyzer.py
